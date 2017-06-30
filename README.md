@@ -1,0 +1,2 @@
+# SiaConnector
+@POS è un gateway virtuale che permette di accettare e gestire in modo facile e sicuro i pagamenti effettuati  su reti aperte per soddisfare le esigenze multicanale di aziende e banche. La soluzione consente di accettare tutte le principali carte di pagamento (VISA, Mastercard, Maestro, American Express, Diners e JCB, Aura) secondo gli standard di sicurezza richiesti. La soluzione è inoltre integrata con altri servizi di pagamento quali PayPal, Masterpass e MyBank.
