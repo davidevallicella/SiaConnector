@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<BPWXmlRisposta>
+    <Timestamp>2003-04-09T12:02:38</Timestamp>
+    <Esito>00</Esito>
+    <!-- Questa MAC firma il timestamp e l'esito -->
+    <MAC>8A74330BA1A1A085581EAA2409D8DC68FCC4395E</MAC>
+    <Dati>
+        <!-- L'elemento che segue contiene i dati della richiesta fatta -->
+        <RicAutorizzazioneOnline>
+            <TestataRichiesta>
+                <IDnegozio>000000000000003</IDnegozio>
+                <IDoperatore>AD456123</IDoperatore>
+                <ReqRefNum>20030501901234567890123452289000</ReqRefNum>
+            </TestataRichiesta>
+            <IDordine>p91</IDordine>
+            <Pan>999850xxxxxx0015</Pan>
+            <CVV2>000</CVV2>
+            <DataScad>0409</DataScad>
+            <Importo>4450</Importo>
+            <Valuta>978</Valuta>
+            <Tcontab>I</Tcontab>
+            <CodiceCircuito>01</CodiceCircuito>
+            <EmailTit>info@titolare.it</EmailTit>
+            <Userid>user1</Userid>
+            <DescrOp>RichiestaCallCenter1037</DescrOp>
+        </RicAutorizzazioneOnline>
+        <Autorizzazione>
+            <TipoPag>03</TipoPag>
+            <Tautor>I</Tautor>
+            <IDtrans>8032180310AB0E30917930112</IDtrans>
+            <Circuito>01</Circuito>
+            <NumOrdine>pos91</NumOrdine>
+            <ImportoTrans>4450</ImportoTrans>
+            <ImportoAutor>4450</ImportoAutor>
+            <Valuta>978</Valuta>
+            <ImportoContab>0</ImportoContab>
+            <ImportoStornato>100</ImportoStornato>
+            <EsitoTrans>00</EsitoTrans>
+            <Timestamp>2003-04-09T12:02:38</Timestamp>
+            <NumAut>622851</NumAut>
+            <AcqBIN>453997</AcqBIN>
+            <CodiceEsercente>000000000000476</CodiceEsercente>
+            <Stato>02</Stato>
+            <!-- Questa MAC firma i dati dell'autorizzazione -->
+            <MAC>0EA6645D79E9752BE05800BE9CFE623CE3973395</MAC>
+        </Autorizzazione>
+    </Dati>
+</BPWXmlRisposta>

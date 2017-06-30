@@ -1,0 +1,5 @@
+# Default sia_connector messages
+# You can specialize this file for each language.
+# For exemple, for french create a messages.fr file
+
+#sia_connector.name=sia_connector
